@@ -8,7 +8,7 @@ with open("requirements.txt", "r") as f:
 
 setuptools.setup(
     name="JsToPy",
-    version="0.1.0",
+    version="0.1.2",
     author="Firew",
     author_email="road.of.programming@gmail.com",
     description=(
