@@ -1,4 +1,4 @@
-# JsToPy
+# JsToPy 0.1.2
 A library that add to python some js functions.
 
 ## Installation
