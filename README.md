@@ -1,4 +1,4 @@
-# JsToPy 0.1.2
+# JsToPy 0.1.3
 A library that add to python some js functions.
 
 ## Installation
@@ -11,9 +11,6 @@ JS code:
 ```js
 var this = require("a-lib");
 
-var nums = [];
-nums.length = 10;
-nums.fill("Foobar");
 console.log(nums);
 ```
 
@@ -23,8 +20,5 @@ import JsToPy
 
 this = require("a-lib");
 
-nums = [];
-nums.number = 10;
-nums.fill("js in python");
 console.log(nums);
 ```
