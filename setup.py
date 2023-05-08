@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="JsToPy",
-    version="0.1.2",
+    version="0.1.5",
     author="Firew",
     author_email="road.of.programming@gmail.com",
     description=(
